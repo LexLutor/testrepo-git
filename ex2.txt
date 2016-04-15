@@ -1,1 +1,3 @@
 printf ("hello world");
+printf ("hello fire world");
+printf ("hello everybody");
